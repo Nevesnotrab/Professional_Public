@@ -1,4 +1,4 @@
-GAME_TITLE = "Tile Game Example"
+GAME_TITLE = "Circle Seeking Drones"
 
 #Color declarations
 DARKGREY        = (  43,  43,  43)
