@@ -5,7 +5,7 @@ from numpy import linspace
 Performs an Explicit Euler Analysis on a 1-D differentiable equation.
 This example assumes the original function is known just to be able to
     plot the functions at the end, but this is not necessary).
-
+"""
 #The original function (if available. x^2 is used for this example)
 def f(x):
     return x * x
